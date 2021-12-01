@@ -6,7 +6,7 @@
 .container {
   width: 226px;
   height: 337px;
-  background: #ffecbb;
+ 
   position: relative;
 }
 .box {
@@ -28,7 +28,7 @@
 }
 .three {
   bottom:  200px;
-  left: 100px;
+  left: 150px;
   background:  #E7C1F9;
 }
 
@@ -36,7 +36,7 @@
 .blue {
   top: 75px;
   left: 200px;
-  background-color: blue;
+;
 }
 .door {
    position: relative;
@@ -45,5 +45,5 @@
     left: 145px;
     top: 255px;
     
-    background: #84CEF9;
+    
 }
